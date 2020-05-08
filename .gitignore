@@ -1,0 +1,5 @@
+config/
+.env
+.fake
+.ionide
+.vscode
